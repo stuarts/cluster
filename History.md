@@ -1,4 +1,27 @@
 
+0.5.7 / 2011-04-17 
+==================
+
+  * Added `lightRequests` option to `stats()`
+
+0.5.6 / 2011-04-15 
+==================
+
+  * Added; expose utils, helpful for plugins
+  * Added; default both `Master#spawn()` and `Master#remove()` to 1
+
+0.5.5 / 2011-04-05 
+==================
+
+  * Revert "Changed; demote user/group in master"
+
+0.5.4 / 2011-04-05 
+==================
+
+  * Added `title` and `worker title` settings. Closes #54
+  * Added `request complete` `stats()` event
+  * Changed; demote user/group in master
+
 0.5.3 / 2011-03-30 
 ==================
 
